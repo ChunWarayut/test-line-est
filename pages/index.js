@@ -3,7 +3,7 @@ import { useEffect } from 'react'
 
 const Home = () => {
   useEffect(() => {
-    document.location.replace("https://lin.ee/b62lJ5I")
+    document.location.href = ("https://lin.ee/b62lJ5I")
   }, [])
   return (
     <div>
