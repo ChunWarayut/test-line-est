@@ -2,9 +2,9 @@ import Head from 'next/head'
 import { useEffect } from 'react'
 
 const Home = () => {
-  useEffect(() => {
-    document.location.href = ("https://lin.ee/b62lJ5I")
-  }, [])
+  // useEffect(() => {
+  //   document.location.href = ("https://lin.ee/b62lJ5I")
+  // }, [])
   return (
     <div>
       <Head>
